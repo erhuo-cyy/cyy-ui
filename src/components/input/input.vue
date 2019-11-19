@@ -45,7 +45,7 @@ export default {
 }
 </script>
 
-<style lang='scss' scoped>
+<style scoped>
   .cyy-inputFirst {
     border: 1px solid rgb(150, 150, 150);
     border-radius: 10px;
